@@ -1,0 +1,5 @@
+package com.moto.service.controlador;
+
+public class MotoController {
+
+}

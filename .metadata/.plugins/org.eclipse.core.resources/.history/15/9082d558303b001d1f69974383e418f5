@@ -1,0 +1,13 @@
+package com.coche.service.servicio;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.coche.service.repositorio.CocheRepository;
+
+@Service
+public class CocheService {
+	@Autowired
+	private CocheRepository cocheRepository;
+
+}

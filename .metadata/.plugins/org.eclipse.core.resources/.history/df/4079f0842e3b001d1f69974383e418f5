@@ -1,0 +1,6 @@
+package com.coche.service.entidades;
+
+@Entity
+public class Coche {
+
+}
